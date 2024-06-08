@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 09 00:47:18 NZST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-018f-f7e3-9493-00001f0f3458 
+on database directory C:\Users\marve\OneDrive\Dokumen\GitHub\Comp603ProjectPart2\gameDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 
+Loaded from file:/C:/Users/marve/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.21+9-LTS-193
+user.dir=C:\Users\marve\OneDrive\Dokumen\GitHub\Comp603ProjectPart2
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
